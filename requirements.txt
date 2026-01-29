@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+transformers
+sentence-transformers
+Pillow
+flask
+opencv-python
+ffmpeg-python
+tqdm
+scikit-learn
+numpy

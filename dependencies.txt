@@ -1,0 +1,15 @@
+Dependencies to Install:
+
+Flask==3.0.3
+torch==2.3.1
+torchvision==0.18.1
+transformers==4.44.2
+Pillow==10.3.0
+langdetect==1.0.9
+gunicorn==21.2.0
+python-dotenv==1.0.1
+
+
+Install At Once :
+pip install Flask torch torchvision transformers Pillow langdetect gunicorn python-dotenv
+
