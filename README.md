@@ -3,6 +3,7 @@
 MindScan AI is a Flask-based web application that simulates mental health and emotional analysis using AI-like logic.
 It includes user authentication, chat interaction, emotion prediction, and multiple API dashboards for analysis.
 
+
 ---
 
 ## 🚀 Features
@@ -148,6 +149,7 @@ SECRET_KEY=super_secret_key
 ## 🧑‍💻 Author
 
 Developed with ❤️ using **Flask**, **PyTorch**, and **Transformers**.
+
 
 
 
