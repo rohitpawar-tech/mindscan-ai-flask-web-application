@@ -72,6 +72,7 @@ python-dotenv==1.0.1
 2. **Create a virtual environment (recommended):**
 
    ```bash
+   
    python -m venv venv
    ```
 3. **Activate the virtual environment:**
@@ -146,6 +147,7 @@ SECRET_KEY=super_secret_key
 ## 🧑‍💻 Author
 
 Developed with ❤️ using **Flask**, **PyTorch**, and **Transformers**.
+
 
 
 
