@@ -7,6 +7,7 @@ It includes user authentication, chat interaction, emotion prediction, and multi
 
 ## 🚀 Features
 
+
 * 🧍‍♂️ **User Authentication** — Register, login, reset password, and manage profile.
 * 💬 **AI Chat System** — Get simulated AI responses with emotional insights.
 * 🖼️ **Image Prediction** — Upload images to receive emotion-based analysis.
@@ -143,3 +144,4 @@ SECRET_KEY=super_secret_key
 ## 🧑‍💻 Author
 
 Developed with ❤️ using **Flask**, **PyTorch**, and **Transformers**.
+
