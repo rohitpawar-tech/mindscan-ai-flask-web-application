@@ -17,6 +17,7 @@ It includes user authentication, chat interaction, emotion prediction, and multi
 
 ---
 
+
 ## 🧩 Folder Structure
 
 ```
@@ -144,4 +145,5 @@ SECRET_KEY=super_secret_key
 ## 🧑‍💻 Author
 
 Developed with ❤️ using **Flask**, **PyTorch**, and **Transformers**.
+
 
