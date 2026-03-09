@@ -77,7 +77,8 @@ python-dotenv==1.0.1
    ```
 3. **Activate the virtual environment:**
 
-   * Windows:
+   *
+   *  Windows:
 
      ```bash
      venv\Scripts\activate
@@ -147,6 +148,7 @@ SECRET_KEY=super_secret_key
 ## 🧑‍💻 Author
 
 Developed with ❤️ using **Flask**, **PyTorch**, and **Transformers**.
+
 
 
 
