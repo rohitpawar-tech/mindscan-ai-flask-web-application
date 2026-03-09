@@ -140,10 +140,12 @@ SECRET_KEY=super_secret_key
 * For production, use **Gunicorn** or **Waitress** instead of Flask’s dev server.
 
 
+
 ---
 
 ## 🧑‍💻 Author
 
 Developed with ❤️ using **Flask**, **PyTorch**, and **Transformers**.
+
 
 
